@@ -1,0 +1,4 @@
+- git remote add origin <repository url>
+(here remote means we are working with urls and add means adding a new url and origin is the name of the given url.)
+
+- git remote -v 	(shows all the urls linked to your directory) 
